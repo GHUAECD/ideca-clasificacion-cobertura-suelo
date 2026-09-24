@@ -1,0 +1,17 @@
+# Datos geográficos y archivos pesados: mantener únicamente en local.
+# Reglas generales porque aún no existe una carpeta de datos o resultados.
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.CPG
+*.sbn
+*.sbx
+*.shp.xml
+*.gpkg
+*.gdb/
+*.gdb/**
+*.tif
+*.tiff
+*.zip
