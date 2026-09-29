@@ -1,0 +1,11 @@
+macro10_id,model_id,model_class
+0,0,Construido
+1,1,Cultivos
+2,2,Pastos_y_herbaceo
+3,3,Bosque
+4,4,Arbustal_y_secundaria
+5,2,Pastos_y_herbaceo
+6,5,Frailejonal
+7,7,Humedal
+8,6,Suelo_desnudo_roca
+9,8,Agua

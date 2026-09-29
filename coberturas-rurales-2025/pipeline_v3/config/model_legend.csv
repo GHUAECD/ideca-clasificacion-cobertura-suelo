@@ -1,0 +1,10 @@
+model_id,model_class,palette,destination
+0,Construido,#c8001a,No_Aplica
+1,Cultivos,#ffd37f,Agricola
+2,Pastos_y_herbaceo,#a3cc51,Agropecuario
+3,Bosque,#1b5e20,Forestales
+4,Arbustal_y_secundaria,#4c9a2a,Forestales
+5,Frailejonal,#9b59b6,Forestales
+6,Suelo_desnudo_roca,#9c9c9c,Tierras_Improductivas
+7,Humedal,#3aa6b9,Suelo_Protegido
+8,Agua,#1f6fb2,Suelo_Protegido

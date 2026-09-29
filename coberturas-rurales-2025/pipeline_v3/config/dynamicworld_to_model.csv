@@ -1,0 +1,10 @@
+dw_id,dw_class,model_id,model_class,destination
+0,water,8,Agua,Suelo_Protegido
+1,trees,3,Bosque,Forestales
+2,grass,2,Pastos_y_herbaceo,Agropecuario
+3,flooded_vegetation,7,Humedal,Suelo_Protegido
+4,crops,1,Cultivos,Agricola
+5,shrub_and_scrub,4,Arbustal_y_secundaria,Forestales
+6,built,0,Construido,No_Aplica
+7,bare,6,Suelo_desnudo_roca,Tierras_Improductivas
+8,snow_and_ice,6,Suelo_desnudo_roca,Tierras_Improductivas

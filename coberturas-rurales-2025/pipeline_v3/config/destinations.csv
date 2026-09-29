@@ -1,0 +1,8 @@
+destination,catastral_code,note
+No_Aplica,,Territorios artificializados; el predio no recibe destino de cobertura.
+Agricola,,Cultivos transitorios y permanentes.
+Agropecuario,,"Pastos, mosaicos y herbáceo manejado."
+Forestales,,"Vegetación leñosa: bosque, arbustal/secundaria, frailejonal."
+Tierras_Improductivas,,"Suelo desnudo, roca, afloramientos."
+Suelo_Protegido,63.0,Protección ambiental (corrección Sumapaz): humedales y cuerpos de agua.
+Espacio_Publico,66.0,"Destino original del correo para humedal/agua, sustituido por Suelo Protegido en Sumapaz."

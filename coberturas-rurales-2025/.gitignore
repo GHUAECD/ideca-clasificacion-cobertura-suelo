@@ -1,0 +1,47 @@
+# --- Datos, resultados y modelos: NUNCA se versionan en este repositorio ---
+workspace_rural_aoi/
+workspace/
+data/
+outputs/
+*.tif
+*.tiff
+*.vrt
+*.ovr
+*.aux.xml
+*.gpkg
+*.gpkg-journal
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.gdb/
+*.zip
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.joblib
+*.log
+
+# --- Credenciales y configuración local ---
+.env
+*.env
+credentials*.json
+*service-account*.json
+.config/earthengine/
+
+# --- Python / editores ---
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

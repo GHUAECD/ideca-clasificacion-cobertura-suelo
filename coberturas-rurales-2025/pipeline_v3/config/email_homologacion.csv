@@ -1,0 +1,11 @@
+macro_class,destino_correo
+Artificial,No_Aplica
+Cultivos,Agricola
+Pastos_y_mosaicos,Agropecuario
+Bosque,Forestales
+Arbustal_y_secundaria,Forestales
+Herbazal,Agropecuario
+Frailejonal,Forestales
+Humedal,Espacio_Publico
+Suelo_desnudo_rocoso,Tierras_Improductivas
+Agua,Espacio_Publico
